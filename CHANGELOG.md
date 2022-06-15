@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.12.1](https://github.com/windmill-labs/windmill/compare/v1.12.0...v1.12.1) (2022-06-15)
+
+
+### Bug Fixes
+
+* fix webhook path for flows ([906f740](https://github.com/windmill-labs/windmill/commit/906f740a0ddce26743e4669af7a101613131a17c))
+
 ## [1.12.0](https://github.com/windmill-labs/windmill/compare/v1.11.0...v1.12.0) (2022-06-14)
 
 
